@@ -1,15 +1,14 @@
 ---
-title:  "A Craftsman Workshop"
-subtitle: "It's always a bit messy"
-author: "n"
+title:  "저희가 키울게요."
+subtitle: "20년짜리 결심"
+author: "SB"
 avatar: "img/authors/nadun.jpg"
 image: "img/f.jpg"
-date:   2015-04-25 12:12:12
+date:   2020-05-08 12:12:12
 ---
 
-### Dolor sit amet?
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin vestibulum non mi non pulvinar. Donec tempus risus vel ex fringilla tempor. Vivamus pharetra non mauris quis fermentum. Vestibulum sed maximus elit, sit amet suscipit orci. Morbi at enim at libero dignissim egestas vel ac nisi. Etiam at lectus a arcu sodales consequat. Aliquam consequat ligula sed purus tincidunt, a ultrices nibh dapibus. Phasellus convallis ipsum nec semper ultricies. In facilisis lacus velit, sit amet lacinia velit blandit id. Nullam ut magna erat. Aliquam sit amet dapibus odio, aliquet tempus tortor. Donec in nisi massa.
-
+### 저희가 키울게요.
+대단한 '묘연'이 있었던 것은 아니었다. 어떤 사람들은 간택을 당하기도 한다지만, 불행히도 그것은 우리 부부에게는 해당되지 않는 얘기였다. 지인을 통해 아기 고양이의 사진을 한 장 건네받았다. 태어난지 7주 가량 된 하얗고 자그마한 아가였다. 눈이 하늘색으로 맑게 빛나는 아이. 어미의 품종에 대해 설명을 들었던 것 같다. 몇개월 령이고, 형제 냥이는 어떻고 ... 하는 이야기를 들었던것도 같다. 정신없이 오케잌오케이 를 쓰고 있었다. 저희가 키울게요. 예쁘게 키울게요. 
 ### Aliquam suscipit.
 Cras eget nisl accumsan, porta nisl in, egestas sapien. Vestibulum gravida nulla sed facilisis tempor. Suspendisse maximus nisi sit amet velit sodales fringilla. Vivamus luctus risus eget dui consectetur porttitor. Maecenas ut ultrices orci. Maecenas mollis est eu sodales mollis. Nulla facilisi. Suspendisse eros arcu, elementum sed sem eu, pharetra rhoncus odio. Proin nec tincidunt velit. Cras nisl augue, faucibus sed mauris in, vestibulum mollis nisl. Nam id libero ultrices, consequat ex vitae, convallis nulla.
 
